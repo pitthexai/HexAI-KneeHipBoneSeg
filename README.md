@@ -13,7 +13,7 @@
 
 ### The proposed pipeline to build the HexAI-KneeHipBoneSeg imaging dataset:
 
-![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/Figures/pipeline.png  "HexAI-KneeHipBoneSeg")
+![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/Figures/pipeline.PNG  "HexAI-KneeHipBoneSeg")
 </p>
 <p>The proposed pipeline to assemble the HexAI-KneeHipBoneSeg imaging dataset.
 </p>
