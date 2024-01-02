@@ -29,6 +29,6 @@
 
 ### Publications:
 
-<p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following manuscript at the <strong>Data in Brief</strong> journal. Any publication using the dataset would require to cite the following work:
+<p align="justify">The <strong>HexAI-KneeHipBoneSeg</strong> imaging dataset is fully explained in the following manuscript at the <strong>Data in Brief</strong> journal. Any publication using the dataset would require to cite the following work:
 <p align="justify">
 <strong>[1]</strong> Aghazadeh A et al. HexAI-KneeHipBoneSeg: a fully-annotated imaging dataset to promote fair and generalized medical image segmentation in orthopedics. Data in Brief. 2024 January [Under Review]</p>
