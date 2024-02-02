@@ -20,9 +20,9 @@
 
 ### HexAI-KneeHipBoneSeg dataset: [Last Update: January 10, 2024]
 <p>Here, you can <strong>download</strong> the HexAI-KneeHipBoneSeg dataset.</p>
-<p>HexAI-KneeHipBoneSeg_MetaData_XLSX.zip [<a href=" " target="_blank">Download</a>]</p>
-<p>HexAI-KneeHipBoneSeg_PlainRadiographs.zip [<a href=" " target="_blank">Download</a>]</p>
-<p>HexAI-KneeHipBoneSeg_SegmentationMasks.zip [<a href=" " target="_blank">Download</a>]</p>
+<p>HexAI-KneeHipBoneSeg_SegmentationMasks.zip [<a href="https://drive.google.com/file/d/1lIuMCmeutndhreeClKT4m74Y4-9Sr1Qw/view?usp=drive_link" target="_blank">Download</a>]</p>
+<p>mapping.csv.zip [<a href="https://drive.google.com/file/d/1TOiQG4QoZERDpQxJWwza8_RGw2qL04A7/view?usp=drive_link" target="_blank">Download</a>]</p>
+
 
 ### Acknowledgements
 <p align="justify">This work was supported in part by Oracle Cloud credits and related resources provided by Oracle for Research. Additionally, this work was also supported by the University of Pittsburgh Clinical and Translational Science Institute/National Institutes of Health (UL1TR001857). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the Oracle for Research and/or the University of Pittsburgh Clinical and Translational Science Institute/National Institutes of Health. The authors of the paper wish to thank the NIH National Institute of Aging for making the Osteoarthritis Initiative (OAI) imaging dataset available for open scientific research. </p>
