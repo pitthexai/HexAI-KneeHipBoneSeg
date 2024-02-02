@@ -20,8 +20,8 @@
 
 ### HexAI-KneeHipBoneSeg dataset: [Last Update: January 10, 2024]
 <p>Here, you can <strong>download</strong> the HexAI-KneeHipBoneSeg dataset.</p>
-+ <p align="justify"><strong>HexAI-KneeHipBoneSeg_SegmentationMasks.zip</strong> [<a href="https://drive.google.com/file/d/1lIuMCmeutndhreeClKT4m74Y4-9Sr1Qw/view?usp=drive_link" target="_blank">Download</a>]</p>
-+ <p align="justify"><strong>mapping.csv.zip</strong> [<a href="https://drive.google.com/file/d/1TOiQG4QoZERDpQxJWwza8_RGw2qL04A7/view?usp=drive_link" target="_blank">Download</a>]</p>
++<p align="justify"><strong>HexAI-KneeHipBoneSeg_SegmentationMasks.zip</strong> [<a href="https://drive.google.com/file/d/1lIuMCmeutndhreeClKT4m74Y4-9Sr1Qw/view?usp=drive_link" target="_blank">Download</a>]</p>
++<p align="justify"><strong>mapping.csv.zip</strong> [<a href="https://drive.google.com/file/d/1TOiQG4QoZERDpQxJWwza8_RGw2qL04A7/view?usp=drive_link" target="_blank">Download</a>]</p>
 
 
 ### Acknowledgements
